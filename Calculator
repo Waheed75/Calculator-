@@ -3,4 +3,5 @@ using namespace std;
 int main(){
 cout<<"sum two number"<<a+b;
 cout<<"sum two number"<<a-b;
+cout<<"sum two number"<<a*b;
 }
