@@ -1,4 +1,5 @@
 #include<iosteam>
 using namespace std; 
 int main(){
+cout<<"sum two number"<<a+b;
 }
